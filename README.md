@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello Many Worlds
 
 I'm **Joav**, a **Quantum Engineer** specializing in **Quantum Photonics**. I work on the development of quantum technologies, with a focus on **Quantum Optics**, **Quantum Mechanics**, and **Quantum Information**.
 
